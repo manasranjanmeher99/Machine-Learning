@@ -198,8 +198,7 @@ Displays the distribution of selected numerical features.
 
 ```markdown
 
-
-!(images/pairplot.png)
+![ANN and churn modeling](images/pairplot.png)
 !(images/violinplot.png)
 ---
 
